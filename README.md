@@ -19,15 +19,27 @@
 
 <br/>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-harshit = {
-    "role": "AI/ML Engineer & Python Backend Engineer",
-    "experience": "Nearly 3 years",
-    "focus": ["Agentic AI", "LLM/VLM", "RAG", "Document Intelligence"],
-    "backend": ["FastAPI", "PostgreSQL", "Redis", "Celery"],
-    "currently_building": "Production AI systems that scale"
-}
+```typescript
+const harshit = {
+  role: "AI/ML Engineer & Python Backend Engineer",
+  experience: "Nearly 3 years",
+
+  building: [
+    "Agentic AI Systems",
+    "Document Intelligence Platforms",
+    "Production-Grade RAG Applications",
+    "Scalable Multi-Tenant Backends"
+  ],
+
+  aiStack: ["LLMs", "VLMs", "LangChain", "Qdrant", "vLLM", "LoRA/QLoRA"],
+  backendStack: ["Python", "FastAPI", "PostgreSQL", "Redis", "Celery"],
+  
+  architecture: ["Microservices", "Event-Driven Systems", "Multi-Tenancy"],
+  currentMission: "Turning ambitious AI ideas into reliable products 🚀"
+};
+```
 
 ⚡ What I Work On
 
