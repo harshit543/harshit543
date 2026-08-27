@@ -74,16 +74,6 @@ DevOps & Cloud
 
 </div>
 
-📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshit543&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Harshit's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit543&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Harshit's most used languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit543&theme=transparent&hide_border=true&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub contribution streak" />
-
-</div>
 
 <br/>
 
