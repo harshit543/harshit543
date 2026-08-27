@@ -1,6 +1,14 @@
+<p align="center">
+  <img src="./Work.gif" width="100%">
+</p>
+
 <div align="center">
 
+<h1 align="center">Hi, I'm Harshit Sharma 👋</h1>
 
+<h3 align="center">
+AI/ML Engineer · Python Backend Engineer · Builder of Production AI Systems
+</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+production-ready+AI+systems;Creating+intelligent+multi-agent+platforms;Engineering+scalable+Python+backends" alt="Typing SVG" />
