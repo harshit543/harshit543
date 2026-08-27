@@ -1,160 +1,101 @@
 <div align="center">
 
-Hi, I'm Harshit Sharma 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Harshit%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Python%20Backend%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Harshit Sharma" />
 
-AI/ML Engineer · Python Backend Engineer · Builder of Production AI Systems
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+production-ready+AI+systems;Creating+intelligent+multi-agent+platforms;Engineering+scalable+Python+backends" alt="Typing SVG" />
+</a>
 
+<p>
+  I turn <b>documents, conversations, and business workflows</b><br/>
+  into reliable AI-powered products.
+</p>
 
-
-
-
-I build intelligent backend systems that turn documents, conversations, and business workflows into reliable AI products.
+<a href="mailto:harsharma543@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
+<a href="https://linkedin.com/in/harshit-sharma"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+<a href="https://github.com/harshit543"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" /></a>
 
 </div>
 
-About Me
+<br/>
 
-🤖 AI/ML and Python backend engineer with nearly 3 years of experience
+👨‍💻 About Me
 
-🏗️ Building multi-tenant AI SaaS platforms, document intelligence systems, and AI agents
+harshit = {
+    "role": "AI/ML Engineer & Python Backend Engineer",
+    "experience": "Nearly 3 years",
+    "focus": ["Agentic AI", "LLM/VLM", "RAG", "Document Intelligence"],
+    "backend": ["FastAPI", "PostgreSQL", "Redis", "Celery"],
+    "currently_building": "Production AI systems that scale"
+}
 
-🧠 Working with LLMs, VLMs, RAG, prompt engineering, LoRA/QLoRA, and computer vision
+⚡ What I Work On
 
-⚙️ Designing scalable APIs and asynchronous pipelines with FastAPI, PostgreSQL, Redis, Celery, and Docker
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 Document Intelligence</h3>
+      OCR, classification, structured extraction, confidence scoring, human validation, and fine-tuned vision-language models.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Multi-Agent Systems</h3>
+      Customer support, lead generation, receptionist, appointment, and debt-collection agents across voice, WhatsApp, and web.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 LLM Engineering</h3>
+      RAG pipelines, prompt systems, tool calling, LoRA/QLoRA fine-tuning, quantization, and high-performance model serving.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Scalable Backends</h3>
+      Secure multi-tenant APIs, asynchronous workers, database isolation, OAuth integrations, and containerized microservices.
+    </td>
+  </tr>
+</table>
 
-📍 Based in Rajasthan, India
+🛠️ Tech Stack
 
-What I Build
+<div align="center">
 
-📄 DataSwitch — AI Document Intelligence Platform
+AI & Machine Learning
 
-A multi-tenant platform for processing complex business documents at scale.
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and ML tools" />
 
-Designed the backend architecture using FastAPI, PostgreSQL, Redis, and Celery
-
-Built OCR, document classification, structured extraction, validation, and export workflows
-
-Deployed Qwen3-VL 8B through vLLM on 48 GB GPU infrastructure
-
-Created hierarchical prompts with organization, document, and system-level strategies
-
-Developed LoRA/QLoRA pipelines for dataset preparation, fine-tuning, adapter merging, quantization, and deployment
-
-Implemented confidence scoring and human-in-the-loop validation
-
-Added tenant isolation, RBAC, JWT authentication, and secure data workflows
-
-🧩 Multi-Agent AI Platform
-
-A multi-tenant orchestration platform that delivers AI agents across voice, WhatsApp, and web channels.
-
-Built Customer Support, Lead Generation, Receptionist, Appointment Setting, and Debt Collection agents
-
-Developed RAG pipelines with LangChain and Qdrant
-
-Integrated Twilio Voice and WhatsApp, Google Calendar OAuth, and accounting workflows
-
-Designed agent tools, escalation paths, session handling, and asynchronous background jobs
-
-Containerized independent services and implemented Redis/Celery-based processing
-
-🔍 Computer Vision and Forecasting
-
-Created YOLOv5 defect-detection systems for scooter body components, reducing manual inspection effort by approximately 40%
-
-Built XGBoost and Prophet models for spare-parts demand forecasting
-
-Developed Tesseract and TrOCR pipelines for invoice and delivery-challan digitization
-
-Tech Stack
-
-AI, LLMs & Computer Vision
-
-
-
-
-
-
-
-
-LLMs · VLMs · Qwen3-VL · vLLM · RAG · OCR · LoRA · QLoRA · XGBoost · Prophet
+LangChain   Qwen3-VL   vLLM   RAG   LoRA / QLoRA   OCR
 
 Backend & Data
 
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,redis" alt="Backend and databases" />
 
+DevOps & Cloud
 
-
-
-
-
-
-REST APIs · SQLAlchemy · Celery · JWT · OAuth 2.0 · PySpark · ETL Pipelines
-
-DevOps & Analytics
-
-
-
-
-
-
-
-
-Azure Data Factory · Power BI · Tableau · Pandas · NumPy
-
-Experience Snapshot
-
-Role
-
-Organization
-
-Period
-
-Python Developer — AI/ML & Backend
-
-Prilient Technologies Pvt. Ltd.
-
-Jul 2025 – Present
-
-AI Engineer — Contract
-
-Enwire Automotive Solutions LLP
-
-Jul 2024 – Jun 2025
-
-Data Engineer
-
-PiPlusPi
-
-Jan 2024 – Jun 2024
-
-Python Developer — Remote
-
-DevCorps IT Solutions
-
-Dec 2022 – Dec 2023
-
-GitHub Activity
-
-<div align="center">
-
-
-
-
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,azure,terraform,grafana,prometheus" alt="DevOps and cloud" />
 
 </div>
 
-GitHub language statistics reflect public repositories and do not represent my complete professional experience.
-
-Let's Connect
-
-I'm interested in opportunities and collaborations involving Agentic AI, LLM applications, document intelligence, RAG, computer vision, and scalable Python backend systems.
-
-📧 harsharma543@gmail.com
-
-💼 linkedin.com/in/harshit-sharma
-
-📱 +91 9636745647
+📊 GitHub
 
 <div align="center">
-<sub>Building AI systems that work beyond the demo.</sub>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshit543&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Harshit's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit543&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Harshit's most used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit543&theme=transparent&hide_border=true&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub contribution streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+💬 Let's build something intelligent.
+
+Open to opportunities and collaborations in Agentic AI, LLM applications,
+document intelligence, computer vision, and Python backend engineering.
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=110&section=footer" width="100%" alt="Footer" />
+
 </div>
