@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Harshit%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Python%20Backend%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Harshit Sharma" />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+production-ready+AI+systems;Creating+intelligent+multi-agent+platforms;Engineering+scalable+Python+backends" alt="Typing SVG" />
